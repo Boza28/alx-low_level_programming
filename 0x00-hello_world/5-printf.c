@@ -4,7 +4,7 @@
 /**
  * main - prints "with proper grammar, but the outcome is 
  * a piece of art," followed by a new line 
- * Return: Alwayes 0
+ * Return: Alwayes 0.
  */
 int main(void)
 {
